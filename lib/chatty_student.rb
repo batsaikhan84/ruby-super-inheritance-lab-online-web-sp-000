@@ -16,4 +16,5 @@ class ChattyStudent
     super
     super
     "Pick me!"
+  end
 end
